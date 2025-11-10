@@ -8,6 +8,8 @@ ot/config.hpp
 unittest/path
 unittest/utility
 
+*.pyc
+
 # Compiled Object files
 *.slo
 *.lo
